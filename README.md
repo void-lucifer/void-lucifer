@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @void-lucifer
-- 👀 I’m interested in C++
+- 👀 I’m interested in C++, Python and Javascript
 - 🌱 I’m currently learning MERN Stack Web Development
 - 📫 How to reach me https://www.linkedin.com/in/yogesh-kumar-verma
 
