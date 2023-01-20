@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogesh Kumar Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer with a passion for building dynamic, responsive web applications and a strong background in both front-end and back-end development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=void-lucifer&label=Profile%20views&color=0e75b6&style=flat" alt="void-lucifer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=void-lucifer" alt="void-lucifer" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
