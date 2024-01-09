@@ -1,0 +1,11 @@
+let cancelToken;
+
+// abort token (use in every handler)
+if (typeof cancelToken != typeof undefined) {
+  cancelToken.cancel("Operation canceled due to new request.");
+}
+cancelToken = axios.CancelToken.source();
+
+const response = await axios.get(`~~path~~`, { cancelToken: cancelToken.token });
+OR
+const response = await axios.get(`~~path~~`, { cancelToken: cancelToken.token });
