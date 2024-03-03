@@ -12,6 +12,7 @@
 ###
 
 <h3 align="left">🛠 Languages and Tools:</h3>
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
@@ -65,8 +66,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
