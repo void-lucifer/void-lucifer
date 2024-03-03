@@ -49,7 +49,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/void-lucifer/void-lucifer/blob/main/Sung-Jin-Woo.gif"  />
+  <img height="200" src="https://github.com/void-lucifer/void-lucifer/blob/main/assets/Tresh-lol.gif"  />
+  <img height="200" src="https://github.com/void-lucifer/void-lucifer/blob/main/assets/Sung-Jin-Woo.gif"  />
 </div>
 
 
