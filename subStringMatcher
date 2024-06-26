@@ -1,0 +1,21 @@
+function subStringMatcher(superstring, substring) {
+    if(substring.length > superstring.length)
+    return -1;
+    
+    let i = 0;
+    while(i < superstring.length) {
+        let j= 0;
+        while(j < substring.length){
+            if (superstring[i + j] === substring[j]) j++;
+            else break;
+        }
+        if(j === substring.length) return i;
+        
+        i++;
+    }
+    return -1;
+}
+
+const str1 = "ahmsuejkmahdjcmadjcj";
+const str2 = "mad";
+console.log(subStringMatcher(str1, str2))
