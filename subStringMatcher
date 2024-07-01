@@ -16,6 +16,22 @@ function subStringMatcher(superstring, substring) {
     return -1;
 }
 
+
+function findSubstringIndex(haystack, needle) {
+    if(substring.length > superstring.length)
+    return -1;
+    
+    let k = 0;
+    for(let i=0; i < haystack.length; i++){
+        if( k === needle.length ) return i-needle.length;
+
+        if(haystack[i] === needle[k]) k++;
+        else k=0;
+    }
+    return -1;
+}
+
 const str1 = "ahmsuejkmahdjcmadjcj";
 const str2 = "mad";
 console.log(subStringMatcher(str1, str2))
+console.log(findSubstringIndex(str1, str2))
