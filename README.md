@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yogesh Kumar Verma</h1>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=71C497&vCenter=true&height=100&lines=Hii+%F0%9F%91%8B+I'm+Yogesh+Kumar+Verma)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=24&pause=1000&color=625DF5&vCenter=true&random=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC+I'm+Yogesh+Kumar+Verma)](https://github.io/void-lucifer)
+
 <h3 align="center">Full Stack Developer with a passion for building dynamic, responsive web applications and a strong background in both front-end and back-end development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=void-lucifer&label=Profile%20views&color=0e75b6&style=flat" alt="void-lucifer" /> </p>
