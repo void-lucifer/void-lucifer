@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=24&pause=1000&color=625DF5&vCenter=true&random=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC+I'm+Yogesh+Kumar+Verma)](https://github.io/void-lucifer)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=24&pause=1000&color=625DF5&vCenter=true&random=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC+I'm+Yogesh+Kumar+Verma)](https://github.com/void-lucifer)
 
 <h3 align="center">Full Stack Developer with a passion for building dynamic, responsive web applications and a strong background in both front-end and back-end development</h3>
 
